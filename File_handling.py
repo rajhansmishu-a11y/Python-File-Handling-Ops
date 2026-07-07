@@ -107,9 +107,6 @@ def deletefile():
         print(f"An error occured as {err}")
 
 
-    
-
-
 print("Press 1 for creating a file")
 print("Press 2 for reading a file")
 print("Press 3 for updating a file")
